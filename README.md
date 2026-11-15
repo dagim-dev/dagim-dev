@@ -28,7 +28,7 @@ Looking for **Winter & Summer 2027 internships** in AI/ML, full-stack / SWE, and
 ![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-white?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=DD2C00)
 ![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git)
 
