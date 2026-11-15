@@ -43,4 +43,4 @@ Looking for **Winter & Summer 2027 internships** in AI/ML, full-stack / SWE, and
 - **[Climate Risk Intelligence](https://github.com/dagim-dev/climate-risk-platform)**: address-level flood, heat, hurricane, and wildfire risk for U.S. properties, built on FEMA and NOAA data. [Live site](https://climate-risk-platform-seven.vercel.app). Presenting at Queen's GIS Day, Nov 18, 2026.
 - **[DgLabs](https://github.com/dagim-dev/musicWeb)**: Android-first PWA that turns online audio into tagged MP3s with live progress. [Case study](https://dagimak.netlify.app/projects/dglabs)
 - **[NOVA Companion](https://github.com/dagim-dev/companion)**: local AI assistant with long-term memory and an adaptive personality.
-- **[Roommate Chore Tracker](https://github.com/dagim-dev/chore-tracker-spa)**: real-time chore tracker for my roommates and me, built on Firebase.
+- **[Roommate Chore Tracker](https://github.com/dagim-dev/chore-tracker-spa)**: real-time chore tracker for my roommates and me, built on Firebase. [Live site](https://unionhouse.netlify.app)
