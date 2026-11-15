@@ -1,48 +1,46 @@
-## Hi, I'm Dagim Weldu
+# Dagim Weldu
 
-Computer Science student at **Queen's University**: Computing with Artificial Intelligence subplan, Minor in Geography, graduating 2028. I build full-stack products, applied AI/ML systems, and geospatial tools that run on real public data.
+CS student at Queen's University (AI subplan, Geography minor). I build full-stack apps, applied AI tools, and GIS projects that run on real data.
 
-**Looking for Winter 2027 and Summer 2027 internships** in AI/ML engineering, full-stack / software engineering, and GIS.
+Looking for **Winter & Summer 2027 internships** in AI/ML, full-stack / SWE, and GIS.
 
 [Portfolio](https://dagimak.netlify.app) · [Résumé](https://dagimak.netlify.app/Dagim-Weldu-Resume.pdf) · [Email](mailto:dagimweldu@gmail.com)
 
-**Currently:** presenting Climate Risk Intelligence at Queen's University GIS Day (November 18, 2026).
+## Tech Stack
 
----
+**Languages**
 
-### Featured projects
+![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql)
+![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=black)
 
-**[Climate Risk Intelligence](https://github.com/dagim-dev/climate-risk-platform)** · [Live site](https://climate-risk-platform.vercel.app) · [Case study](https://dagimak.netlify.app/projects/climate-risk-analyzer)
+**Frameworks & Tools**
 
-Address-level climate risk reports for U.S. properties. It geocodes an address, pulls flood, heat, hurricane, and wildfire data from FEMA, NOAA, USFS, and NIFC, scores each hazard, and returns a Go / Caution / Avoid verdict.
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss)
+![FastAPI](https://img.shields.io/badge/fastapi-white?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-white?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git)
 
-`Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Docker`
+**GIS**
 
-**[DgLabs](https://github.com/dagim-dev/musicWeb)** · [Case study](https://dagimak.netlify.app/projects/dglabs)
+![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-white?style=for-the-badge&logo=googleearthengine)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-white?style=for-the-badge&logo=arcgis)
+![Google Maps](https://img.shields.io/badge/Google_Maps-white?style=for-the-badge&logo=googlemaps)
 
-An Android-first PWA that turns online audio into tagged 320 kbps MP3s, with live job progress pushed over WebSockets from a FastAPI backend.
+## Projects
 
-`React` `TypeScript` `FastAPI` `yt-dlp` `FFmpeg`
-
-**[NOVA Companion](https://github.com/dagim-dev/companion)** · [Overview](https://dagimak.netlify.app/projects/nova)
-
-A locally run AI companion with long-term memory, a cognition pipeline for intent and emotion, an adaptive personality, and optional voice.
-
-`Python` `FastAPI` `SQLite` `Next.js` `OpenAI`
-
-**[Roommate Chore Tracker](https://github.com/dagim-dev/chore-tracker-spa)**
-
-A single-page app that keeps a shared house's chores in sync in real time, with a leaderboard, progress rings, and admin-only editing.
-
-`JavaScript` `Firebase Firestore` `Netlify`
-
----
-
-### Toolkit
-
-- **Languages:** Python · TypeScript · JavaScript · C / C++ · HTML & CSS
-- **Frontend:** React · Next.js · Tailwind CSS · Vite
-- **Backend:** FastAPI · Flask · REST APIs · WebSockets / Socket.IO · JWT auth
-- **Data & AI:** PostgreSQL · SQLite · SQLAlchemy · OpenAI / LLM APIs · Machine Learning Specialization (DeepLearning.AI, 2026)
-- **GIS & geospatial:** Google Earth Engine · ArcGIS REST services (FEMA NFHL, Esri Living Atlas, NIFC) · Google Maps Geocoding API · NOAA climate data
-- **Tooling:** Docker · Git · pytest · Playwright
+- **[Climate Risk Intelligence](https://github.com/dagim-dev/climate-risk-platform)**: address-level flood, heat, hurricane, and wildfire risk for U.S. properties, built on FEMA and NOAA data. [Live site](https://climate-risk-platform.vercel.app). Presenting at Queen's GIS Day, Nov 18, 2026.
+- **[DgLabs](https://github.com/dagim-dev/musicWeb)**: Android-first PWA that turns online audio into tagged MP3s with live progress. [Case study](https://dagimak.netlify.app/projects/dglabs)
+- **[NOVA Companion](https://github.com/dagim-dev/companion)**: local AI assistant with long-term memory and an adaptive personality.
+- **[Roommate Chore Tracker](https://github.com/dagim-dev/chore-tracker-spa)**: real-time chore tracker for my roommates and me, built on Firebase.
